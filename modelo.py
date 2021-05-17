@@ -3,6 +3,8 @@ from tkinter import messagebox
 from validar import Validar
 import pandas as pd
 
+""" testeo de subida a git"""
+
 
 def extraer_datos_graficar():
     miconexion = sqlite3.connect("biblioteca.db")
